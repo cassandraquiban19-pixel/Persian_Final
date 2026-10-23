@@ -1,0 +1,162 @@
+[
+  {
+    "class_id": 0,
+    "letter": "ا",
+    "name": "Alef"
+  },
+  {
+    "class_id": 1,
+    "letter": "ب",
+    "name": "Be"
+  },
+  {
+    "class_id": 2,
+    "letter": "پ",
+    "name": "Pe"
+  },
+  {
+    "class_id": 3,
+    "letter": "ت",
+    "name": "Te"
+  },
+  {
+    "class_id": 4,
+    "letter": "ث",
+    "name": "Se"
+  },
+  {
+    "class_id": 5,
+    "letter": "ج",
+    "name": "Jim"
+  },
+  {
+    "class_id": 6,
+    "letter": "چ",
+    "name": "Che"
+  },
+  {
+    "class_id": 7,
+    "letter": "ح",
+    "name": "He"
+  },
+  {
+    "class_id": 8,
+    "letter": "خ",
+    "name": "Khe"
+  },
+  {
+    "class_id": 9,
+    "letter": "د",
+    "name": "Dal"
+  },
+  {
+    "class_id": 10,
+    "letter": "ذ",
+    "name": "Zal"
+  },
+  {
+    "class_id": 11,
+    "letter": "ر",
+    "name": "Re"
+  },
+  {
+    "class_id": 12,
+    "letter": "ز",
+    "name": "Ze"
+  },
+  {
+    "class_id": 13,
+    "letter": "ژ",
+    "name": "Zhe"
+  },
+  {
+    "class_id": 14,
+    "letter": "س",
+    "name": "Sin"
+  },
+  {
+    "class_id": 15,
+    "letter": "ش",
+    "name": "Shin"
+  },
+  {
+    "class_id": 16,
+    "letter": "ص",
+    "name": "Sad"
+  },
+  {
+    "class_id": 17,
+    "letter": "ض",
+    "name": "Zad"
+  },
+  {
+    "class_id": 18,
+    "letter": "ط",
+    "name": "Ta"
+  },
+  {
+    "class_id": 19,
+    "letter": "ظ",
+    "name": "Za"
+  },
+  {
+    "class_id": 20,
+    "letter": "ع",
+    "name": "Ayn"
+  },
+  {
+    "class_id": 21,
+    "letter": "غ",
+    "name": "Ghayn"
+  },
+  {
+    "class_id": 22,
+    "letter": "ف",
+    "name": "Fe"
+  },
+  {
+    "class_id": 23,
+    "letter": "ق",
+    "name": "Qaf"
+  },
+  {
+    "class_id": 24,
+    "letter": "ک",
+    "name": "Kaf"
+  },
+  {
+    "class_id": 25,
+    "letter": "گ",
+    "name": "Gaf"
+  },
+  {
+    "class_id": 26,
+    "letter": "ل",
+    "name": "Lam"
+  },
+  {
+    "class_id": 27,
+    "letter": "م",
+    "name": "Mim"
+  },
+  {
+    "class_id": 28,
+    "letter": "ن",
+    "name": "Nun"
+  },
+  {
+    "class_id": 29,
+    "letter": "و",
+    "name": "Vav"
+  },
+  {
+    "class_id": 30,
+    "letter": "ه",
+    "name": "Heh"
+  },
+  {
+    "class_id": 31,
+    "letter": "ی",
+    "name": "Ye"
+  }
+]

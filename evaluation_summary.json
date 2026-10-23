@@ -1,0 +1,12 @@
+{
+  "selected_model": "MobileNetV2",
+  "test_accuracy": 0.98974609375,
+  "test_macro_f1": 0.9897723140897013,
+  "split_description": "font-grouped holdout: validation=font5, test=font6",
+  "train_images": 20480,
+  "validation_images": 4096,
+  "test_images": 4096,
+  "class_count": 32,
+  "seconds": 4628.2,
+  "note": "Synthetic font-only performance does not establish handwritten recognition accuracy."
+}

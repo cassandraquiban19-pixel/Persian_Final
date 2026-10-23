@@ -1,0 +1,207 @@
+{
+  "Alef": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Be": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Pe": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Te": {
+    "precision": 0.9512195121951219,
+    "recall": 0.9140625,
+    "f1-score": 0.9322709163346613,
+    "support": 128.0
+  },
+  "Se": {
+    "precision": 0.9172932330827067,
+    "recall": 0.953125,
+    "f1-score": 0.9348659003831418,
+    "support": 128.0
+  },
+  "Jim": {
+    "precision": 1.0,
+    "recall": 0.9453125,
+    "f1-score": 0.9718875502008032,
+    "support": 128.0
+  },
+  "Che": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "He": {
+    "precision": 0.9411764705882353,
+    "recall": 1.0,
+    "f1-score": 0.9696969696969697,
+    "support": 128.0
+  },
+  "Khe": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Dal": {
+    "precision": 0.9920634920634921,
+    "recall": 0.9765625,
+    "f1-score": 0.984251968503937,
+    "support": 128.0
+  },
+  "Zal": {
+    "precision": 1.0,
+    "recall": 0.984375,
+    "f1-score": 0.9921259842519685,
+    "support": 128.0
+  },
+  "Re": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Ze": {
+    "precision": 0.9846153846153847,
+    "recall": 1.0,
+    "f1-score": 0.9922480620155039,
+    "support": 128.0
+  },
+  "Zhe": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Sin": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Shin": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Sad": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Zad": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Ta": {
+    "precision": 0.9078014184397163,
+    "recall": 1.0,
+    "f1-score": 0.9516728624535316,
+    "support": 128.0
+  },
+  "Za": {
+    "precision": 1.0,
+    "recall": 0.921875,
+    "f1-score": 0.959349593495935,
+    "support": 128.0
+  },
+  "Ayn": {
+    "precision": 1.0,
+    "recall": 0.9921875,
+    "f1-score": 0.996078431372549,
+    "support": 128.0
+  },
+  "Ghayn": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Fe": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Qaf": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Kaf": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Gaf": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Lam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Mim": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Nun": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128.0
+  },
+  "Vav": {
+    "precision": 1.0,
+    "recall": 0.9921875,
+    "f1-score": 0.996078431372549,
+    "support": 128.0
+  },
+  "Heh": {
+    "precision": 1.0,
+    "recall": 0.9921875,
+    "f1-score": 0.996078431372549,
+    "support": 128.0
+  },
+  "Ye": {
+    "precision": 0.9922480620155039,
+    "recall": 1.0,
+    "f1-score": 0.9961089494163424,
+    "support": 128.0
+  },
+  "accuracy": 0.98974609375,
+  "macro avg": {
+    "precision": 0.9902005491562551,
+    "recall": 0.98974609375,
+    "f1-score": 0.9897723140897013,
+    "support": 4096.0
+  },
+  "weighted avg": {
+    "precision": 0.9902005491562551,
+    "recall": 0.98974609375,
+    "f1-score": 0.9897723140897013,
+    "support": 4096.0
+  }
+}
